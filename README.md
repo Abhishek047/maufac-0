@@ -63,6 +63,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+![image](https://github.com/Abhishek047/maufac-0/assets/46723129/cf9bb835-a4b7-4fcc-b3f8-6dbdaf2c9450)
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `yarn build` fails to minify
